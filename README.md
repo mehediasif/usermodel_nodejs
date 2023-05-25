@@ -1,7 +1,16 @@
+---
+### Introduction
+Imagine you're trying to create a social media application(or any application where users have to `sign up`/`login` in your application) in Node.js.So, you need to define the user model. The user model would represent the core attributes and functionalities related to a user's account in the application.
+With the user model defined, you can use it to perform various operations such as
+> creating a new user, retrieving user information,updating user details,authenticating users,managing user relationships (followers/following), and associating user data with other parts of your application, such as posts or comments.
 
+
+---
 # Complete User Model Template
 
 This is a backend project template for anyone planning to create a project aiming for having a user model schema and authentication.Designed for managing large user based web applications
+> This user model will serve as the foundation for implementing user-related functionalities in your social media application built with Node.js.
+
 ## Features:
 - New User signup
 - user Login and Logout
