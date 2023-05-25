@@ -4,6 +4,7 @@ Imagine you're trying to create a social media application(or any application wh
 With the user model defined, you can use it to perform various operations such as
 > creating a new user, retrieving user information,updating user details,authenticating users,managing user relationships (followers/following), and associating user data with other parts of your application, such as posts or comments.
 
+![Untitled - Frame 1](https://github.com/mehediasif/usermodel_nodejs/assets/56122633/8daff64f-c94e-437b-a332-488dcdfb3fb3)
 
 ---
 # Complete User Model Template
